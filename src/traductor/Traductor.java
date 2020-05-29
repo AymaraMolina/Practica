@@ -46,6 +46,9 @@ public class Traductor {
 
                     System.out.println("La traduccion es: "+act.codigo(pal));
                 break;
+            case 3:
+                    System.out.println("Yo no se traducir");
+                break;
         }
                 
         
